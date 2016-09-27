@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">GenericQuestionnaire</string>
+    <string name="app_name">Questionário</string>
+    <string name="app_name_old">GenericQuestionnaire</string>
+    <string name="app_descritor">Questionário</string>
+    <string name="app_project">UNASUS-AMAZONIA</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="Name">Informe seu nome:</string>
+    <string name="NextButton">Próximo</string>
+    <string name="title_activity_final">Questionário</string>
+    <string name="result">Resultado</string>
 </resources>
